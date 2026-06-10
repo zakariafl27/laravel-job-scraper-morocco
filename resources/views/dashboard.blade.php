@@ -13,7 +13,7 @@
     <header class="bg-white shadow">
         <div class="max-w-7xl mx-auto px-4 py-6 sm:px-6 lg:px-8">
             <h1 class="text-3xl font-bold text-gray-900">Job Scraper Dashboard</h1>
-            <p class="mt-1 text-sm text-gray-600">Free WhatsApp job alerts powered by AI</p>
+            <p class="mt-1 text-sm text-gray-600">Free WhatsApp job alerts</p>
         </div>
     </header>
 
@@ -282,7 +282,7 @@
     <footer class="bg-white border-t mt-12">
         <div class="max-w-7xl mx-auto px-4 py-6 sm:px-6 lg:px-8">
             <p class="text-center text-gray-500 text-sm">
-                Job Scraper - FREE WhatsApp Notifications - Powered by Adzuna, Marocannonces & ANAPEC
+                Job Scraper - FREE WhatsApp Notifications
             </p>
         </div>
     </footer>
